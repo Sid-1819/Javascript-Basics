@@ -47,3 +47,15 @@ console.log("Hello");
 // console.log(result2);
 // console.log(result3);
 // console.log(result1 + result2 + result3);
+
+// //STRINGS IN JAVASCRIPT
+// let name1 = "Jack";
+// let name2 = "Jill";
+// //STRINGS ARE IMMUTABLE
+// console.log(name1 + " and " + name2 + " went up the hill");
+// console.log(`${name1} and ${name2} went up the hill`);
+// console.log(name1.charAt(1));
+// console.log(name1.concat(name2));
+// console.log(name1.replace("ck", "guar"));
+// console.log(name1.length);
+// console.log(name1.slice(2, 3));
